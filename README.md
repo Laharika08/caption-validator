@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Caption Validator (Beginner-Friendly Guide)
 
@@ -46,3 +47,6 @@ go run cmd/main.go --t_start 0 --t_end 120 --coverage 80 --endpoint http://examp
 - Implement full parsing for WebVTT and SRT.
 - Add unit tests in `tests/`.
 - Improve error messages and logging.
+=======
+# caption-validator
+>>>>>>> a753cf84e5592df9f4271c4aaf3dde3255f6dcf9
